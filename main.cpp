@@ -8,7 +8,6 @@
 using namespace std;
 
 int main() {
-//    printName();
 //    display_fibon();
     run_display();
     return 0;

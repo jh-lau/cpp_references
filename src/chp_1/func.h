@@ -9,3 +9,5 @@ int greetWithName2();
 int calcAverage();
 
 int calcAverage2();
+
+int readAndSort();

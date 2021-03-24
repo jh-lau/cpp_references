@@ -9,7 +9,6 @@ using namespace std;
 
 int main() {
 //    printName();
-//    calcAverage2();
 //    display_fibon();
     run_display();
     return 0;

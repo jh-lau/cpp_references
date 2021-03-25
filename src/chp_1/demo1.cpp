@@ -11,5 +11,6 @@ int printName() {
          << "Hello, "
          << user_name
          << " ... and goodbye!\n";
+
     return 0;
 }

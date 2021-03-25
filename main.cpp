@@ -9,6 +9,13 @@ using namespace std;
 
 int main() {
 //    display_fibon();
-    run_display();
+//    run_display();
+//    inputAndCount();
+//    showSizeOf();
+    float i = 12;
+    float &d = i;
+    float *p = &i;
+    *p = 123.f;
+    cout << i << ' ' << d << ' ' << p << ' ' << endl;
     return 0;
 }

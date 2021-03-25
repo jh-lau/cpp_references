@@ -11,3 +11,7 @@ int calcAverage();
 int calcAverage2();
 
 int readAndSort();
+
+int inputAndCount();
+
+void showSizeOf();

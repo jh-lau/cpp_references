@@ -11,11 +11,8 @@ int main() {
 //    display_fibon();
 //    run_display();
 //    inputAndCount();
-//    showSizeOf();
-    float i = 12;
-    float &d = i;
-    float *p = &i;
-    *p = 123.f;
-    cout << i << ' ' << d << ' ' << p << ' ' << endl;
+    showSizeOf();
+//    int bufSize = 512;
+//    bufSize = 12;
     return 0;
 }

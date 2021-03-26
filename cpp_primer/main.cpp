@@ -1,6 +1,7 @@
-#include <iostream>
+//#include <iostream>
+#include "src/include/funcs.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    showSizeOf();
     return 0;
 }

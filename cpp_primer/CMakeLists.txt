@@ -3,4 +3,4 @@ project(cpp_primer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cpp_primer main.cpp)
+add_executable(cpp_primer main.cpp src/part_1_the_basics/chp2_variables_and_basic_types/demo1.cpp src/include/funcs.h)

@@ -3,3 +3,5 @@
 //
 #pragma once
 int showLog();
+int showEntity();
+int showFunction();

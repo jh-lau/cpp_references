@@ -2,10 +2,11 @@
 // Created by liujianhan on 21/3/26.
 //
 #include <iostream>
-using namespace std;
 
-void showSizeOf()
-{
+using std::cout;
+using std::endl;
+
+void showSizeOf() {
     cout << "Size of bool is " << sizeof(bool) << endl;
     cout << "Size of char is " << sizeof(char) << endl;
     cout << "Size of wchar_t is " << sizeof(wchar_t) << endl;

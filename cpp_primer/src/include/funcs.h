@@ -5,3 +5,4 @@
 
 void showSizeOf();
 
+void showString();

@@ -2,6 +2,7 @@
 #include "src/include/funcs.h"
 
 int main() {
-    showSizeOf();
+//    showSizeOf();
+    showString();
     return 0;
 }
